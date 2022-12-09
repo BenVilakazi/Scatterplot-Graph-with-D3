@@ -1,0 +1,14 @@
+{
+  "name": "@d3/scatterplot-tour",
+  "main": "f79e753129e696f0@153.js",
+  "version": "153.0.0",
+  "homepage": "https://observablehq.com/@d3/scatterplot-tour",
+  "author": {
+    "name": "D3",
+    "url": "https://observablehq.com/@d3"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
